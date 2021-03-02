@@ -1,0 +1,28 @@
+{
+ "creation": "2021-03-01 13:30:48.819644",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "description"
+ ],
+ "fields": [
+  {
+   "fieldname": "description",
+   "fieldtype": "Text Editor",
+   "in_list_view": 1,
+   "label": "Description"
+  }
+ ],
+ "istable": 1,
+ "modified": "2021-03-01 13:41:17.440803",
+ "modified_by": "Administrator",
+ "module": "Meeting Management",
+ "name": "Meeting Agenda",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
